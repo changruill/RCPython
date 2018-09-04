@@ -1,0 +1,2 @@
+# RCPython
+为RepChain提供构造交易和发送交易的Python接口
